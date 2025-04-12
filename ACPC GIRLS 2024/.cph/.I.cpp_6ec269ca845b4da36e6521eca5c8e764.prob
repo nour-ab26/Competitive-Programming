@@ -1,1 +1,0 @@
-{"name":"Local: I","url":"c:\\Users\\user\\OneDrive\\Bureau\\ACPC GIRLS\\I.cpp","tests":[{"id":1720280968536,"input":"3\n4 6\n12 15\n8 9","output":"2\n3\n1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Bureau\\ACPC GIRLS\\I.cpp","group":"local","local":true}
