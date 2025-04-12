@@ -4,11 +4,7 @@
   "C_Cpp_Runner.debuggerPath": "gdb",
   "C_Cpp_Runner.cStandard": "",
   "C_Cpp_Runner.cppStandard": "",
-<<<<<<< HEAD
-  "C_Cpp_Runner.msvcBatchPath": "",
-=======
   "C_Cpp_Runner.msvcBatchPath": "C:/Program Files/Microsoft Visual Studio/VR_NR/Community/VC/Auxiliary/Build/vcvarsall.bat",
->>>>>>> 93cb3a1de566819f9ebd1ae9c2a9b851aac3a697
   "C_Cpp_Runner.useMsvc": false,
   "C_Cpp_Runner.warnings": [
     "-Wall",
@@ -59,13 +55,5 @@
   "C_Cpp_Runner.useLeakSanitizer": false,
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
-  "C_Cpp_Runner.msvcSecureNoWarnings": false,
-  "files.associations": {
-<<<<<<< HEAD
-    "iostream": "cpp",
-    "ostream": "cpp"
-=======
-    "iostream": "cpp"
->>>>>>> 93cb3a1de566819f9ebd1ae9c2a9b851aac3a697
-  }
+  "C_Cpp_Runner.msvcSecureNoWarnings": false
 }
