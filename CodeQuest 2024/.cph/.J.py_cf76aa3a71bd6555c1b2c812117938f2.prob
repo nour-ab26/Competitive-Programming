@@ -1,0 +1,1 @@
+{"name":"Local: J","url":"c:\\Users\\user\\OneDrive\\Bureau\\CP\\CodeQuest\\J.py","tests":[{"id":1722253449952,"input":"3\n234\n155\n","output":"Luffy"},{"id":1722253462069,"input":"4\n2394\n1595\n","output":"Zoro"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Bureau\\CP\\CodeQuest\\J.py","group":"local","local":true}
