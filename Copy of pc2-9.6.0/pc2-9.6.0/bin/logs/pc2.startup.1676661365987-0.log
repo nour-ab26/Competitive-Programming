@@ -1,9 +1,0 @@
-230217 201606.022|CONFIG|main|setFileHandlers|Now logging to C:\Users\support\Downloads\Wintercup Ressource\pc2-9.6.0\bin\logs directory.
-230217 201606.027|INFO|main|info|
-230217 201606.032|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 17.0.5 build 5102 Windows 11 10.0 (amd64) 
-230217 201606.032|INFO|main|startLog|Working directory is C:\Users\support\Downloads\Wintercup Ressource\pc2-9.6.0\bin
-230217 201606.106|INFO|main|startLog|Process id is 21896@PC3-2022
-230217 201606.106|INFO|main|start|Starting ConnectionManager...
-230217 201606.305|INFO|main|start|Started ConnectionManager
-230217 201606.305|SEVERE|main|fatalError|Cannot start PC^2, pc2v9.ini file not found in C:\Users\support\Downloads\Wintercup Ressource\pc2-9.6.0\bin
-230217 201606.305|INFO|main|fatalError|PC^2 halted
